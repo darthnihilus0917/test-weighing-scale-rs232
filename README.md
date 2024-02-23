@@ -1,0 +1,1 @@
+# test-weighing-scale-rs232
